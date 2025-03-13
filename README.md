@@ -1,4 +1,4 @@
-# -Pivot-Chart-Analysis-for-Yummy-Frozen-Yogurt
+# Pivot-Chart-Analysis-for-Yummy-Frozen-Yogurt
 
 # Summary of Your Pivot Chart Analysis for Yummy Frozen Yogurt
 I have created a Pivot Table and Pivot Chart Analysis to study sales performance based on rainfall conditions (Heavy vs. Normal), categorized by month, year, and region.
