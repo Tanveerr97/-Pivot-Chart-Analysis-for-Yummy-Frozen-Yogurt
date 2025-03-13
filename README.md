@@ -30,3 +30,6 @@ Compared seasonal sales performance across multiple years and regions.
 Highlighted which months or locations perform better in heavy or normal rainfall.
 
 This analysis helps in strategic decision-making, ensuring better inventory planning and sales forecasting based on weather conditions.
+#pivotchart #-YummyFrozenYogurt #dataanalysis
+
+https://github.com/Tanveerr97/-Pivot-Chart-Analysis-for-Yummy-Frozen-Yogurt/blob/main/Pivot-Chart-Analysis-for-Yummy-Frozen-Yogurt.xlsx
